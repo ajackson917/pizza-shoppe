@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: red;
+  font-size: 24px;
+  font-family: Arial, Helvetica, san-serif; 
+}
+
+.header {
+  border: 2px solid black;
+  padding-left: 10x;
+}
+
+p {
+  color: red;
+}
+
+ol {
+  color: red;
+}
+
+.footer {
+  color: red;
+}
+
+div {
+  border: 2px solid black;
+}
